@@ -1,4 +1,3 @@
-# netflix-clonee
-# netflix-clonee
-# netflix-clone
-# netflix-web
+
+# netflix-clone using html and CSS
+
